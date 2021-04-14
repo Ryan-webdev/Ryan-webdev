@@ -2,7 +2,7 @@
 
 
 #### I'm a software engineer :computer: 
-  - I am just Graduating from [Lambda School's](https://lambdaschool.com) Full Stack [Web Development Program](https://lambdaschool.com/courses/full-stack-web-development) and am looking for my first position in the industry!
+  - I Graduated from [Lambda School's](https://lambdaschool.com) Full Stack [Web Development Program](https://lambdaschool.com/courses/full-stack-web-development) and am looking for my first position in the industry!
 
 - 🔭 I’m currently working on a work order flow app with 6 other developers.
 - 🔨 Some tools I'm very skilled in JavaScript, ReactJs, NodeJs, SQL, PostgreSQL, and Python
